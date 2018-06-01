@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Pruebas2.exe,org.eclipse.launchbar.core.descriptorType.default\:LeerArchivos.exe,org.eclipse.launchbar.core.descriptorType.default\:ParsginText.exe,org.eclipse.launchbar.core.descriptorType.default\:structes.exe,org.eclipse.launchbar.core.descriptorType.default\:BinaryFiles.exe,org.eclipse.launchbar.core.descriptorType.default\:Vectores.exe,org.eclipse.launchbar.core.descriptorType.default\:VectoresWithMemory.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:BinaryFiles.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:BinaryFiles.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:LeerArchivos.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:LeerArchivos.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Pruebas2.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Pruebas2.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
